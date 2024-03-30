@@ -1,0 +1,19 @@
+{
+  "name": "javascript-engineer-screening",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "vitest --run",
+    "test:watch": "vitest"
+  },
+  "engines": {
+    "node": ">= v18.14.2",
+    "npm": ">= 9.5.0"
+  },
+  "private": true,
+  "dependencies": {
+    "vite": "^5.2.6",
+    "vitest": "^1.4.0"
+  }
+}
